@@ -9,3 +9,5 @@ Banana Split is an easy way to generate a frequency modulated oscillator and it 
   - 12 push buttons that simulate a piano keyboard 
   - 6 potentiometers to regulate the envelope and the frequency modulation parameters
   - 4 buttons made out of candies to apply effects on sound.
+
+This is the repository of the original project: https://github.com/jsvaldezv/BananaSplit
